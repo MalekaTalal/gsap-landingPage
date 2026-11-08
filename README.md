@@ -1,32 +1,24 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🌹 Flora – Premium Digital Experience
 
-Currently, two official plugins are available:
+<p align="center">
+  <img width="1672" height="941" alt="Flora_ A Premium Digital Experience" src="https://github.com/user-attachments/assets/f2e538b3-0e5e-49e7-a512-a9da2c66ac44" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+</p>
 
-## React Compiler
+## About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Flora is a premium digital experience designed to showcase rose water products and the beauty of natural rose-based products through an elegant and responsive website.
 
-## Expanding the Oxlint configuration
+## My Role
+Front-End Development
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+## Technologies
+- React.js
+- Tailwind CSS
+- JavaScript
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
-
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## Project Links
+- **Live Demo:** [View Website](PUT_YOUR_WEBSITE_LINK_HERE)
+- **GitHub:** https://github.com/MalekaTalal/LandingPage
+- 
