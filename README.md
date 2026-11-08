@@ -3,6 +3,7 @@
 
 <p align="center">
   <img width="1672" height="941" alt="Flora_ A Premium Digital Experience" src="https://github.com/user-attachments/assets/f2e538b3-0e5e-49e7-a512-a9da2c66ac44" />
+<img width="1240" height="2702" alt="Screenshot_13-10-2026_215014_localhost" src="https://github.com/user-attachments/assets/e233805c-eb1e-4ed8-ad4b-a0d4ff20045c" />
 
 </p>
 
